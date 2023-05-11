@@ -6,7 +6,7 @@
 - 👶 Current name: Delitanast (_Delitanast_)
 
 ## Currently Working On...
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=jexclient&repo=jexclient.github.io&theme=nord)](https://github.com/jexclient/.github/)
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=jexclient&repo=jexclient.github.io&theme=nord)](https://github.com/jexclient/jexclient.github.io/)
 
 ## Stats
 
