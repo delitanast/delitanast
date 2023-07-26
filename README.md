@@ -1,7 +1,7 @@
 ## About
 
 - 🚀 Simple python developer.
-- 🌎 Website: [delitanast.github.io](https://delitanast.github.io/)
+- 🌎 Website: [expensive-company.github.io](https://expensive-company.github.io/)
 - 🗨️ Talk to me on [discord](https://discord.gg/bp2Sp8qSPm).
 - 👶 Current name: Delitanast (_Delitanast_)
 
